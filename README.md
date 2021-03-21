@@ -1,2 +1,2 @@
 # ActualizarPagina-HTML
-Función onclick(window.location.reload) para actualizar site, como un F5..
+Función *input* de Formulario: *onclick(window.location.reload)* para actualizar site, como un **F5**..
